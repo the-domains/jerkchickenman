@@ -1,0 +1,28 @@
+name: jerkchickenman
+favicon: null
+layout_spectrum: 0.16547021293081343
+typography_spectrum: 0.4354066760279238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.20451386948116124
+  lightness: 0.4990992781240493
+  saturation: 0.5493119030725211
+  rhythmicContrast: 0.036991076776757836
+purpose: []
