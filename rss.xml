@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[jerkchickenman]]></title>
         <description><![CDATA[jerkchickenman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jerkchickenman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 04:59:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 04:59:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jerkchickenman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df887c0-472a-4e62-aa78-0b9653370993.jpg">]]></description>
-            <link>undefined2484f5f4-dcfb-4325-8f28-b9b1297dc947/index.html</link>
+            <link>https://thegrid.ai/jerkchickenman/2484f5f4-dcfb-4325-8f28-b9b1297dc947/index.html</link>
             <guid isPermaLink="false">2484f5f4-dcfb-4325-8f28-b9b1297dc947</guid>
             <pubDate>Tue, 03 May 2016 04:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff63d2ff-4a97-4a99-9743-209762ac4736.jpg">]]></description>
+            <link>https://thegrid.ai/jerkchickenman/theyre-only-coming-for-theexperience/index.html</link>
+            <guid isPermaLink="false">b6063677-f1c5-42c8-8a9f-48367451818a</guid>
+            <pubDate>Tue, 03 May 2016 04:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
